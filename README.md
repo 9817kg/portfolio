@@ -20,7 +20,7 @@
 #### Front-end
 - **language**: Java
 
-[채팅 프로그램 상세보기 프로젝트 💨](링크)
+[채팅 프로그램 상세보기 프로젝트 💨]([링크](https://github.com/9817kg/chatting))
 
 ---
 
@@ -43,7 +43,7 @@
 - **language**: JavaScript, HTML/CSS
 - **skill**: AJAX, Thymeleaf
 
-[Web ShoppingMall 상세보기 프로젝트 💨](링크)
+[Web ShoppingMall 상세보기 프로젝트 💨]([링크](https://github.com/9817kg/Website))
 
 ---
 
