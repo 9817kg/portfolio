@@ -20,7 +20,7 @@
 #### Front-end
 - **language**: Java
 
-[채팅 프로그램 상세보기 프로젝트 💨]([링크](https://github.com/9817kg/chatting))
+[채팅 프로그램 상세보기 프로젝트 💨](https://github.com/9817kg/chatting)
 
 ---
 
