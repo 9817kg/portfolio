@@ -33,9 +33,10 @@
 
 #### 상세 역할
 - security에 passwordEncoder 를 하여 비밀번호 암호화 하였습니다.
-- rest API 인 kakao,google,naver 로그인 API 를 oauth2 를 이용해 구현했습니다.
+- kakao,google,naver 로그인 API 를 oauth2 를 이용해 구현했습니다.
 - Java Mail 을 이용해 비밀번호를 까먹을 시 가입 한 mail 로 임시비밀번호를 생성하여 전송하고 그 비밀번호는 자동으로 DB에 암호화되어 Insert 되게 구현했습니다.
 - 이메일 찾기, 회원정보 수정, 회원탈퇴 구현
+
 
 #### Back-end
 - **language**: Java
@@ -56,7 +57,7 @@
 
 #### 상세 역할
 - security에 passwordEncoder 를 하여 비밀번호 암호화 하였습니다.
-- rest API 인 kakao,google,naver 로그인 API 를 oauth2 를 이용해 구현했습니다.
+-  kakao,google,naver 로그인 API 를 oauth2 를 이용해 구현했습니다.
 - Java Mail 을 이용해 비밀번호를 까먹을 시 가입 한 mail 로 임시비밀번호를 생성하여 전송하고 그 비밀번호는 자동으로 DB에 암호화되어 Insert 되게 구현했습니다.
 - 이메일 찾기, 회원정보 수정, 회원탈퇴 구현
 - 게시판 기능(notice, Q & A 를 구현)
