@@ -24,7 +24,7 @@
 
 [채팅 프로그램 코드 💨](https://github.com/9817kg/chatting)
 
-[채팅프로그램 view💨](https://github.com/9817kg/chatting/blob/main/assets/137484097/b8206792-7e00-44ca-a26e-18edbf2321a3.png)
+![채팅프로그램 view💨](https://github.com/9817kg/chatting/blob/main/assets/137484097/b8206792-7e00-44ca-a26e-18edbf2321a3.png)
 
 [PPT 보러가기 💨](https://docs.google.com/presentation/d/13BepA_d7lHwMD-8gbg_K65ro6FtMsWjkcf3Hipvt10c/edit?pli=1#slide=id.p1)
 
@@ -41,7 +41,6 @@
 - Java Mail 을 이용해 비밀번호를 까먹을 시 가입 한 mail 로 임시비밀번호를 생성하여 전송하고 그 비밀번호는 자동으로 DB에 암호화되어 Insert 되게 구현했습니다.
 - 이메일 찾기, 회원정보 수정, 회원탈퇴 구현
 
-
 #### Back-end
 - **language**: Java
 - **skill**: MariaDB, Spring Boot
@@ -52,13 +51,13 @@
 
 [Web ShoppingMall 코드 💨](https://github.com/9817kg/Website)
 
-![💨]((https://github.com/9817kg/portfolio/assets/137484097/ede742d3-0ca8-438c-aca0-c7210eb425ff))
+![Image 1](https://github.com/9817kg/portfolio/blob/main/assets/137484097/ede742d3-0ca8-438c-aca0-c7210eb425ff.png)
 
-![💨](https://github.com/9817kg/portfolio/assets/137484097/7bad6425-97ec-48a4-869a-d595b3e7d32c))
+![Image 2](https://github.com/9817kg/portfolio/blob/main/assets/137484097/7bad6425-97ec-48a4-869a-d595b3e7d32c.png)
 
-![💨](https://github.com/9817kg/portfolio/assets/137484097/c55beb59-3581-4dbb-bed1-996e2a7a0b09))
+![Image 3](https://github.com/9817kg/portfolio/blob/main/assets/137484097/c55beb59-3581-4dbb-bed1-996e2a7a0b09.png)
 
-[PPT 보러가기 💨]([https://docs.google.com/presentation/d/13BepA_d7lHwMD-8gbg_K65ro6FtMsWjkcf3Hipvt10c/edit?pli=1#slide=id.p1](https://docs.google.com/presentation/d/105c6f35L9HGQR4yqfremxD_ftdtlu4NleHikqzCSpGM/edit#slide=id.p1))
+[PPT 보러가기 💨](https://docs.google.com/presentation/d/13BepA_d7lHwMD-8gbg_K65ro6FtMsWjkcf3Hipvt10c/edit?pli=1#slide=id.p1)
 
 ---
 
@@ -77,26 +76,4 @@
 - 상품 상세 정보 구현 (provider에 있는 상품 등록자를 클릭 시 해당 등록자에 정보를 나타내는 페이지 구현)
 - 카트를 구현하여 상세 페이지에서 카트 버튼을 클릭 시 상품이 카트 entity에 insert 되게 구현
 - 상품 카트 구현 (해당 유저의 카트에 담긴 상품들을 출력하고, 하나씩 체크하면 아래 총 상품 금액에 금액이 더해져 총 상품 금액이 나오고, 전체선택을 하게 되면 모든 상품이 합해진 값이 출력되게 구현)
-- 검색 기능 구현 (상품을 카테고리, 제목, 작성자로 검색할 수 있는 기능을 구현)
-- 마이페이지 구현 (프로필 사진, 회원정보, member_type이 teacher일 경우 자기소개, 경력 수정 가능하게 하였습니다)
-- 회원가입 시 학생, 학부모, 강사로 type을 나누어 가입받게 하였고 강사 콤보박스가 체크 시 자기소개, 경력을 적을 수 있는 input 태그가 출력되게 동적으로 구현했습니다.
-
-#### Back-end
-- **language**: Java
-- **skill**: MariaDB, Spring Boot
-
-#### Front-end
-- **language**: JavaScript, HTML/CSS
-- **skill**: AJAX, Thymeleaf
-
-[인터넷 강의 구매사이트 프로젝트 💨](링크)
-
----
-
-## Contact Me
-
-**이메일**: rywlswkd@gmail.com
-
-[Git](https://github.com/9817kg)
-
-[블로그](https://let-coding.tistory.com/)
+- 검색 기능 구현
