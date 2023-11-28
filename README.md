@@ -97,15 +97,15 @@
 
 #### [회원가입/로그인💨]
 
-(https://github.com/9817kg/portfolio/assets/137484097/71f0b389-0735-4bf0-880a-cde92598c794)
+[ 프로필 수정💨](https://github.com/9817kg/portfolio/assets/137484097/71f0b389-0735-4bf0-880a-cde92598c794)
 
 #### [비밀번호 찾기💨]
 
-(https://github.com/9817kg/portfolio/assets/137484097/39963f12-367b-4477-8992-fdeddd9e1330)
+[ 프로필 수정💨](https://github.com/9817kg/portfolio/assets/137484097/39963f12-367b-4477-8992-fdeddd9e1330)
 
-(https://github.com/9817kg/portfolio/assets/137484097/5f44c7d1-9f4b-42b3-b00f-ad940d471608)
+[ 프로필 수정💨](https://github.com/9817kg/portfolio/assets/137484097/5f44c7d1-9f4b-42b3-b00f-ad940d471608)
 
-(https://github.com/9817kg/portfolio/assets/137484097/1c70ec71-13ee-4e60-a086-d04eb0cb6766)
+[ 프로필 수정💨](https://github.com/9817kg/portfolio/assets/137484097/1c70ec71-13ee-4e60-a086-d04eb0cb6766)
 
 ### 프로필 수정
 
