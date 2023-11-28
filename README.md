@@ -92,7 +92,7 @@
 - **language**: JavaScript, HTML/CSS
 - **skill**: AJAX, Thymeleaf
 
-[인터넷 강의 구매사이트 프로젝트 💨](https://github.com/9817kg/myWeb)
+[온라인 개발 커뮤니티 프로젝트로 이동 💨](https://github.com/9817kg/myWeb)
 
 
 #### [회원가입/로그인💨]
