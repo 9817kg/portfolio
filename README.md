@@ -61,7 +61,7 @@
 
 
 
-[PPT 보러가기 💨]([https://docs.google.com/presentation/d/105c6f35L9HGQR4yqfremxD_ftdtlu4NleHikqzCSpGM/edit#slide=id.p1))
+[PPT 보러가기 💨](https://docs.google.com/presentation/d/105c6f35L9HGQR4yqfremxD_ftdtlu4NleHikqzCSpGM/edit#slide=id.p1)
 
 ---
 
