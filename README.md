@@ -52,11 +52,11 @@
 
 [Web ShoppingMall 코드 💨](https://github.com/9817kg/Website)
 
-![💨]((https://github.com/9817kg/portfolio/assets/137484097/ede742d3-0ca8-438c-aca0-c7210eb425ff))
+![💨]((https://github.com/9817kg/portfolio/assets/137484097/ede742d3-0ca8-438c-aca0-c7210eb425ff.png)
 
-![💨](https://github.com/9817kg/portfolio/assets/137484097/7bad6425-97ec-48a4-869a-d595b3e7d32c))
+![💨](https://github.com/9817kg/portfolio/assets/137484097/7bad6425-97ec-48a4-869a-d595b3e7d32c.png)
 
-![💨](https://github.com/9817kg/portfolio/assets/137484097/c55beb59-3581-4dbb-bed1-996e2a7a0b09))
+![💨](https://github.com/9817kg/portfolio/assets/137484097/c55beb59-3581-4dbb-bed1-996e2a7a0b09.png)
 
 [PPT 보러가기 💨]([https://docs.google.com/presentation/d/13BepA_d7lHwMD-8gbg_K65ro6FtMsWjkcf3Hipvt10c/edit?pli=1#slide=id.p1](https://docs.google.com/presentation/d/105c6f35L9HGQR4yqfremxD_ftdtlu4NleHikqzCSpGM/edit#slide=id.p1))
 
