@@ -22,7 +22,11 @@
 #### Front-end
 - **language**: Java
 
-[채팅 프로그램 상세보기 프로젝트 💨](https://github.com/9817kg/chatting)
+[채팅 프로그램 코드 💨](https://github.com/9817kg/chatting)
+
+![채팅프로그램 view💨](https://github.com/9817kg/chatting/blob/main/assets/137484097/b8206792-7e00-44ca-a26e-18edbf2321a3.png)
+
+[PPT 보러가기 💨](https://docs.google.com/presentation/d/13BepA_d7lHwMD-8gbg_K65ro6FtMsWjkcf3Hipvt10c/edit?pli=1#slide=id.p1)
 
 ---
 
@@ -46,7 +50,11 @@
 - **language**: JavaScript, HTML/CSS
 - **skill**: AJAX, Thymeleaf
 
-[Web ShoppingMall 상세보기 프로젝트 💨](https://github.com/9817kg/Website)
+[Web ShoppingMall 코드 💨](https://github.com/9817kg/Website)
+
+![쇼핑몰 view💨](https://github.com/9817kg/chatting/blob/main/assets/137484097/b8206792-7e00-44ca-a26e-18edbf2321a3.png)
+
+[PPT 보러가기 💨]([https://docs.google.com/presentation/d/13BepA_d7lHwMD-8gbg_K65ro6FtMsWjkcf3Hipvt10c/edit?pli=1#slide=id.p1](https://docs.google.com/presentation/d/105c6f35L9HGQR4yqfremxD_ftdtlu4NleHikqzCSpGM/edit#slide=id.p1))
 
 ---
 
