@@ -94,6 +94,36 @@
 
 [인터넷 강의 구매사이트 프로젝트 💨](링크)
 
+
+#### [회원가입/로그인💨]
+
+(https://github.com/9817kg/portfolio/assets/137484097/71f0b389-0735-4bf0-880a-cde92598c794)
+
+#### [비밀번호 찾기💨]
+
+(https://github.com/9817kg/portfolio/assets/137484097/39963f12-367b-4477-8992-fdeddd9e1330)
+(https://github.com/9817kg/portfolio/assets/137484097/5f44c7d1-9f4b-42b3-b00f-ad940d471608)
+(https://github.com/9817kg/portfolio/assets/137484097/1c70ec71-13ee-4e60-a086-d04eb0cb6766)
+
+### 관리자 기능
+
+#### 유저삭제💨
+
+(https://github.com/9817kg/portfolio/assets/137484097/f033c7dd-44a9-451e-8d56-d074f19657ba)
+
+#### 공지 view💨
+
+(https://github.com/9817kg/portfolio/assets/137484097/ecd81767-9ea4-480a-b450-0eb91a2f0389)
+
+#### 관리자 변경 확인💨
+
+(https://github.com/9817kg/portfolio/assets/137484097/1a6db950-3c43-440b-84cc-0f4a2ce29f84)
+
+
+#### 쇼핑몰 view💨
+
+(https://github.com/9817kg/portfolio/assets/137484097/c55beb59-3581-4dbb-bed1-996e2a7a0b09)
+
 ---
 
 ## Contact Me
