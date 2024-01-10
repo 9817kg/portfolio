@@ -9,6 +9,7 @@
 1년 반 독학 후 학원을 다니는 과정에서 팀프로젝트를 하였으며, 팀에서 멘토 역할을 하며 팀원들에 업무를 지원하며 백엔드 개발자로서의 역량을 길러냈습니다.
 
 ### skil
+
 https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
 
 
