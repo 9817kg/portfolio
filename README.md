@@ -9,8 +9,16 @@
 1년 반 독학 후 학원을 다니는 과정에서 팀프로젝트를 하였으며, 팀에서 멘토 역할을 하며 팀원들에 업무를 지원하며 백엔드 개발자로서의 역량을 길러냈습니다.
 
 ### skil
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
-<img src="https://img.shields.io/badge/php-007396?style=flat&logo=OpenJDK&logoColor=#777BB4"/>
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white)
+
 
 
 ### 👨‍💻 Project
